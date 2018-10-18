@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0429932-460a-4243-8816-8072c81b0ea2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_Fork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_clone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_collaborators.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_commit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_pullrequests.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_push.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/git的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git的基本使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ES6基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ES6基础.md" afterDir="false" />
     </list>
     <ignored path="xiuxiu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +65,9 @@
     <session id="-1921863898">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -111,25 +103,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
+            <state relative-caret-position="588">
               <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="441">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
+            <state relative-caret-position="624">
               <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
             </state>
           </provider>
@@ -210,8 +202,8 @@
         <option value="$PROJECT_DIR$/source/_posts/bootstrap总结.md" />
         <option value="$PROJECT_DIR$/source/_posts/webpack的使用.md" />
         <option value="$PROJECT_DIR$/source/_posts/Less的使用.md" />
-        <option value="$PROJECT_DIR$/source/_posts/ES6基础.md" />
         <option value="$PROJECT_DIR$/source/_posts/git的基本使用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/ES6基础.md" />
       </list>
     </option>
   </component>
@@ -232,11 +224,11 @@
       <path value="$PROJECT_DIR$/themes/yilia/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="485" />
     <option name="y" value="90" />
     <option name="width" value="1200" />
-    <option name="height" value="544" />
+    <option name="height" value="545" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -377,15 +369,16 @@
       <workItem from="1539677937739" duration="1158000" />
       <workItem from="1539746732782" duration="5523000" />
       <workItem from="1539824474387" duration="4696000" />
-      <workItem from="1539831049081" duration="3753000" />
+      <workItem from="1539831049081" duration="4093000" />
+      <workItem from="1539840641656" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85948000" />
+    <option name="totallyTimeSpent" value="86297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14266843" />
@@ -594,22 +587,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
+        <state relative-caret-position="588">
           <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
+        <state relative-caret-position="624">
           <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
         </state>
       </provider>
     </entry>
