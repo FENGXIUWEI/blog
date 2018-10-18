@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0429932-460a-4243-8816-8072c81b0ea2" name="Default" comment="" />
+    <ignored path="xiuxiu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1262226600">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="md" value="36" />
+          <entry key="png" value="8" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="8" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="5865" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5865" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xiuxiu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/bootstrap总结.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>theme</find>
+      <find>列表</find>
+      <find>qute</find>
+      <find>```</find>
+      <find>列表组</find>
+      <find>them</find>
+      <find>引入图片的方法</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.deploy_git" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/_posts/vuejs项目的下载.md" />
+        <option value="$PROJECT_DIR$/source/_posts/GitHub的SSH提交配置.md" />
+        <option value="$PROJECT_DIR$/themes/blueLake/source/css/style.styl" />
+        <option value="$PROJECT_DIR$/source/about/index.md" />
+        <option value="$PROJECT_DIR$/themes/blueLake/layout/_partial/comments.jade" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/BlueLake博客主题的详细配置.md" />
+        <option value="$PROJECT_DIR$/source/_posts/自定义HEXO站内搜索Javascript-json.md" />
+        <option value="$PROJECT_DIR$/source/_posts/111.md" />
+        <option value="$PROJECT_DIR$/source/_posts/BlueLake博客主题的详细配置222.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Vue-js的基本使用.md" />
+        <option value="$USER_HOME$/Desktop/bootstrap/cpts_866_cad/cpts_866_cad/index.html" />
+        <option value="$PROJECT_DIR$/source/_posts/vuex中store的用法.md" />
+        <option value="$PROJECT_DIR$/themes/blueLake/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/字体小图标的制作.md" />
+        <option value="$PROJECT_DIR$/source/_posts/less实战.md" />
+        <option value="$PROJECT_DIR$/../demoplane/globe.js" />
+        <option value="$PROJECT_DIR$/../demoplane/index.html" />
+        <option value="$PROJECT_DIR$/../demoplane/index2.html" />
+        <option value="$PROJECT_DIR$/source/_posts/百度地图API使用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/移动端学习.md" />
+        <option value="$PROJECT_DIR$/source/_posts/vue项目实战.md" />
+        <option value="$PROJECT_DIR$/source/_posts/ngrok的基本使用.md" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/过渡和2d变换课件/表盘/index1.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/过渡和2d变换课件/360导航/indexnew.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css3第五章（上）课件/cube.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css3第五章（上）课件/6_3d变换.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css3第五章（上）课件/8_3d幻灯片.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css第五章（下）课件/paperfolding.html" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css第五章（下）课件/3d图片轮换/index.html" />
+        <option value="$PROJECT_DIR$/source/_posts/css3-0总结.md" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css3第五章（上）课件/index.html" />
+        <option value="$USER_HOME$/Desktop/icomoon/style.css" />
+        <option value="$USER_HOME$/Desktop/CSS3详解/CSS3详解/3d变换和动画课件/CSS3第五章/css3第五章（上）课件/3d幻灯片/indexnew.html" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/less/bootstrap.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/less/mixins.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/less/variables.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/less/mixins/opacity.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/less/normalize.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/lessone/variables.less" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/dist/css/bootstrap.css" />
+        <option value="$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/index.html" />
+        <option value="$PROJECT_DIR$/source/_posts/PS工具作用详解.md" />
+        <option value="$PROJECT_DIR$/source/_posts/TortoiseGit安装、配置.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Hexo的基本使用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/markdown的语法.md" />
+        <option value="$PROJECT_DIR$/source/_posts/bootstrap总结.md" />
+        <option value="$PROJECT_DIR$/source/_posts/webpack的使用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Less的使用.md" />
+        <option value="$PROJECT_DIR$/source/_posts/ES6基础.md" />
+        <option value="$PROJECT_DIR$/source/_posts/git的基本使用.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/themes/aloha/package.json" />
+      <path value="$PROJECT_DIR$/themes/blueLake/package.json" />
+      <path value="$PROJECT_DIR$/themes/yilia/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="486" />
+    <option name="y" value="90" />
+    <option name="width" value="1200" />
+    <option name="height" value="543" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="blueLake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="blueLake" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="blueLake" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="blueLake" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\source\backups" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\git" />
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\less" />
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\webpack" />
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images" />
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\landscape\source\images\webpack" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0429932-460a-4243-8816-8072c81b0ea2" name="Default" comment="" />
+      <created>1523268232895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523268232895</updated>
+      <workItem from="1537861044219" duration="5816000" />
+      <workItem from="1537931459288" duration="268000" />
+      <workItem from="1537931742174" duration="4737000" />
+      <workItem from="1538010519452" duration="11343000" />
+      <workItem from="1538097435614" duration="1798000" />
+      <workItem from="1538208470686" duration="1399000" />
+      <workItem from="1538271152068" duration="6752000" />
+      <workItem from="1538805821877" duration="1146000" />
+      <workItem from="1538959092376" duration="12506000" />
+      <workItem from="1539045703013" duration="12558000" />
+      <workItem from="1539141601077" duration="9949000" />
+      <workItem from="1539221241764" duration="2363000" />
+      <workItem from="1539504121009" duration="183000" />
+      <workItem from="1539677937739" duration="1158000" />
+      <workItem from="1539746732782" duration="5523000" />
+      <workItem from="1539824474387" duration="4696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82195000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2344782" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27476883" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$USER_HOME$/Desktop/CSS3详解/CSS3详解/过渡和2d变换课件/表盘/index.html</url>
+          <line>30</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/_posts/BlueLake博客主题的详细配置.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" column="122" selection-start-line="34" selection-start-column="122" selection-end-line="34" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/vuex中store的用法.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/vuejs项目的下载.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/css3-0总结.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/markdown的语法.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/GitHub的SSH提交配置.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ngrok的基本使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/TortoiseGit安装、配置.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/images/webpack/name_error.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/百度地图API使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/webpack/html_plugin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/webpack/html_plugin_package.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/webpack/html_plugin_webpack.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/webpack/react_dom.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/webpack/file_webpack.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue-js的基本使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20244">
+          <caret line="723" column="13" selection-start-line="723" selection-start-column="13" selection-end-line="723" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/vue项目实战.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/字体小图标的制作.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Less的使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/less/less_watchers.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/bootstrap总结.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/webpack的使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
