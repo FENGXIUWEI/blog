@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0429932-460a-4243-8816-8072c81b0ea2" name="Default" comment="" />
+    <list default="true" id="f0429932-460a-4243-8816-8072c81b0ea2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_Fork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_clone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_collaborators.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_commit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_pullrequests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/blueLake/source/images/git/git_push.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/git的基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git的基本使用.md" afterDir="false" />
+    </list>
     <ignored path="xiuxiu.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,6 +71,28 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-1921863898">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="253" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="253" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="xiuxiu" />
@@ -68,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/bootstrap总结.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="308">
               <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
@@ -77,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <state relative-caret-position="539">
+              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+            <state relative-caret-position="567">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -95,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="553">
+              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -122,7 +156,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.deploy_git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -199,10 +233,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="486" />
+    <option name="x" value="485" />
     <option name="y" value="90" />
     <option name="width" value="1200" />
-    <option name="height" value="543" />
+    <option name="height" value="544" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,6 +244,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +256,6 @@
               <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiuxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiuxiu" type="b2602c69:ProjectViewProjectNode" />
@@ -267,7 +296,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,15 +307,15 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\offer\peixiu\web\github\xiuxiu\source\backups" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\offer\peixiu\web\github\testgit\blog\xiuxiu\themes\blueLake\source\images\git" />
       <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\git" />
       <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\less" />
       <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images\webpack" />
       <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\blueLake\source\images" />
-      <recent name="D:\offer\peixiu\web\github\xiuxiu\themes\landscape\source\images\webpack" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\offer\peixiu\web\github\xiuxiu\source\backups" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -349,17 +377,18 @@
       <workItem from="1539677937739" duration="1158000" />
       <workItem from="1539746732782" duration="5523000" />
       <workItem from="1539824474387" duration="4696000" />
+      <workItem from="1539831049081" duration="3753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82195000" />
+    <option name="totallyTimeSpent" value="85948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2344782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14266843" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -549,20 +578,6 @@
     <entry file="file://$PROJECT_DIR$/themes/blueLake/source/images/less/less_watchers.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/bootstrap总结.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/webpack的使用.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -570,17 +585,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/bootstrap总结.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Hexo的基本使用.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        <state relative-caret-position="539">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ES6基础.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/git的基本使用.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="553">
+          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
         </state>
       </provider>
     </entry>
